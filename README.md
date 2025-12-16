@@ -3,8 +3,8 @@ For me, this is both a refresher on key ML, Deep Learning, and GenAI concepts an
 I can keep up the pace of building one project per day.
 
 ## Week 1: Machine Learning (ML)
-### Exploratory Data Analysis (EDA): Data storytelling using datasets like Titanic survival.
-### Classification & Regression: Building predictors for heart disease, housing market trends, and future store sales.
+-> Exploratory Data Analysis (EDA): Data storytelling using datasets like Titanic survival.
+Classification & Regression: Building predictors for heart disease, housing market trends, and future store sales.
 ### Feature Engineering: Techniques for preventing customer churn and feature transformation.
 ### Customer Segmentation: Using AI to unlock customer personas. 
 
