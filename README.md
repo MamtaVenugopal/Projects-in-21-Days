@@ -13,13 +13,20 @@ I can keep up the pace of building one project per day.
 
 ## Week 2: Deep Learning (DL)
 -> Computer Vision: Building digit recognizers from scratch, real-time object detection, and image classification using Transfer Learning.
+
 -> Creative AI: Implementing Neural Style Transfer for generating AI art.
+
 -> NLP & Custom Models: Creating custom text generation engines (Mini-GPT) and utilizing Hugging Face Pipelines for one-line AI solutions.
+
 -> Time-Series Analysis: Applying deep learning for next-gen forecasting and sequence data. 
 
 ## Week 3: Generative & Agentic AI
 -> Retrieval-Augmented Generation (RAG): Building powerful chatbots powered by custom knowledge bases.
+
 -> AI Agents: Developing Autonomous Market Analysts for deep research and AI browser agents for web automation.
+
 -> Document Intelligence: Creating smart OCR bots for automated data extraction.
+
 -> Natural Language to SQL: Building generators that allow users to "talk" to their data.
+
 -> Automation Workflows: Constructing AI-powered newsletter pipelines using tools like n8n. 
